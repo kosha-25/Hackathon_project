@@ -90,6 +90,7 @@ const TourDetails = () => {
                           <h5>kosha</h5>
                           <p>{new Date('01-18-2023').toLocaleDateString('en-US', options)}</p>
                         </div>
+                        <span></span>
                       </div>
                     </div>
                   </div>
